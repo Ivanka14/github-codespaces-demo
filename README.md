@@ -5,5 +5,5 @@ Hello, welcome to my projects.
 
 - PowerBI_Project_Bank_Customers_Analysis is bank customer analysis using data from Kaggle: https://www.kaggle.com/code/mathchi/churn-problem-for-bank-customer/input
 
--Tableau_5000Inc_Dashboard, Data Source: https://www.producthunt.com/products/inc-5000-list-2023-csv-pdf-dataset/launches
+- Tableau_5000Inc_Dashboard, Data Source: https://www.producthunt.com/products/inc-5000-list-2023-csv-pdf-dataset/launches
 
